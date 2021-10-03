@@ -1,2 +1,3 @@
 # u2f-laboratory
-Laboratory of u2f usage
+Laboratory of U2F client communicating with FIDO2 server.
+
